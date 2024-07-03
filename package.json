@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jerstudi/Dependabot/issues"
   },
-  "homepage": "https://github.com/jerstudi/Dependabot#readme"
+  "homepage": "https://github.com/jerstudi/Dependabot#readme",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
 }
